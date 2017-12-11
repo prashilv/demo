@@ -4,4 +4,4 @@ This is a simple readme file.
 
 #Heading 2
 
-It is conflict time - adding some random data to cause mismatch
+Time to cause branch commit conflict
